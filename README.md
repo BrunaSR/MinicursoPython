@@ -16,7 +16,7 @@ O conteúdo do minicurso é divido em 5 partes da seguinte forma:
   - Laços de Repetição
   - Coleções de Dados
 
-  [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/BrunaSR/MinicursoPython/blob/main/Notebooks/Aula/ParteI_Aula.ipynb)
+  [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/BrunaSR/MinicursoPython/blob/main/Notebooks/Aula/ParteII_Aula.ipynb)
   
 * Parte III:
   - Funções 

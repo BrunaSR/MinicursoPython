@@ -27,6 +27,10 @@ O conteúdo do minicurso é divido em 5 partes da seguinte forma:
 * Parte IV:
   - Geração e análise de dados com a biblioteca Numpy
 
+  [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/BrunaSR/MinicursoPython/blob/main/Notebooks/Aula/ParteIV_Aula.ipynb)
+
 * Parte V:
   - Visualização de dados com Matplotlib
+  - 
+[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/BrunaSR/MinicursoPython/blob/main/Notebooks/Aula/ParteV_Aula.ipynb)
 

@@ -3,7 +3,7 @@
 Curso de ferramentas básicas em Python para a disciplina de "Introdução ao Aprendizado de Máquina I e II"
 
 O conteúdo do minicurso é divido em 5 partes da seguinte forma:
-* Parte 1: 
+* Parte I: 
   - Tipos de dados
   - Operadores aritméticos
   - Operadores relacionais
